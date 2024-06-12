@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
-| [Introduction](#introduction) | [Key Points](#key-points) | [Special Thanks](#special-thanks) | [References and Tools](#references-and-tools) |
+| [Introduction](#introduction) | [Key Points](#key-points) | [Quick Start](#quick-start) | [Special Thanks](#special-thanks) | [References and Tools](#references-and-tools) |
 
 ## Introduction
 
@@ -14,6 +14,9 @@ A C++ library that provides the infrastructure to build tools capable of collect
 - C# Wrapper included
 - Unity-ready
 
+## Quick Start
+
+@TODO
 
 ## Special Thanks
 
