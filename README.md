@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
-| [Introduction](#introduction) | [Key Points](#key-points) | [Quick Start](#quick-start) | [Special Thanks](#special-thanks) | [References and Tools](#references-and-tools) |
+| [Introduction](#introduction) | [Key Points](#key-points) | [Latest Releases](#latest-releases) | [Quick Start](#quick-start) | [Special Thanks](#special-thanks) | [References and Tools](#references-and-tools) |
 
 ## Introduction
 
@@ -13,6 +13,12 @@ A C++ library that provides the infrastructure to build tools capable of collect
 - Capable of preserving object references
 - C# Wrapper included
 - Unity-ready
+
+## Latest Releases
+
+Latest source: [Source v.0.99.0](https://github.com/MickDmnts/Snapshot_CPP_Serialization_Library/releases/tag/v0.99.0)
+
+Latest Unity Package: [Unity Package v.0.99.0](https://github.com/MickDmnts/Snapshot_CPP_Serialization_Library/releases/tag/unityPkg_0.99)
 
 ## Quick Start
 
