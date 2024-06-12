@@ -1,7 +1,7 @@
 /*
 * Developed by Michael-Evangelos Diamantis Aug-2024
 * for SAE Athens CMN6302 - Major.
-* Source: https://github.com/MichaelEvangelosD/cmn6302_majorSAE
+* Source: https://github.com/MickDmnts/Snapshot_CPP_Serialization_Library
 */
 #include "pch.h"
 
