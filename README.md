@@ -10,6 +10,7 @@ A C++ library that provides the infrastructure to build tools capable of collect
 
 ## Key Points
 
+- Fast and reliable serialization
 - Capable of preserving object references
 - C# Wrapper included
 - Unity-ready
